@@ -21,7 +21,7 @@ I'm currently based in Vietnam.
   #+end_quote
 
 - https://github.com/rgoulter/c-worksheet.vim
-#+html: <p align="center"><img src="https://raw.githubusercontent.com/rgoulter/c-worksheet.vim/master/demo-slow.gif" /></p>
+  #+html: <p align="center"><img src="https://raw.githubusercontent.com/rgoulter/c-worksheet.vim/master/demo-slow.gif" /></p>
   #+begin_quote
   Shows the output of simple C programs alongside the code,
   in a similar manner to Swift Playgrounds or Scala worksheets.
