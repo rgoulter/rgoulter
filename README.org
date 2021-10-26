@@ -14,7 +14,7 @@ I'm currently based in Vietnam.
   #+end_quote
 
 - https://github.com/rgoulter/keyboard-labs
-#+html: <p align="center"><img src="https://raw.githubusercontent.com/rgoulter/keyboard-labs/master/docs/images/keyboard_100x100_minif4-36key_rev2021.1mx-pair_tented.JPG" /></p>
+  #+html: <p align="center"><img src="https://raw.githubusercontent.com/rgoulter/keyboard-labs/master/docs/images/keyboard_100x100_minif4-36key_rev2021.1mx-pair_tented.JPG" /></p>
   #+begin_quote
   I got into custom keyboards as a hobby.
   I designed a small, split keyboard which used a powerful development board.
