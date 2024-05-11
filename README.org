@@ -8,16 +8,16 @@ I'm currently based in Vietnam.
 
 * Repositories
 
-- https://github.com/rgoulter/dotfiles
+- https://github.com/rgoulter/keyboard-labs
+  #+html: <p align="center"><img src="https://raw.githubusercontent.com/rgoulter/keyboard-labs/master/docs/images/keyboards/ch552-36/tented.JPG" /></p>
   #+begin_quote
-  My configuration for NixOS, Emacs, neovim, nixpkgs, starship prompt, etc.
+  I have designed several custom keyboard PCBs, as well as some plates/cases for these.
   #+end_quote
 
-- https://github.com/rgoulter/keyboard-labs
-  #+html: <p align="center"><img src="https://raw.githubusercontent.com/rgoulter/keyboard-labs/master/docs/images/keyboard_100x100_minif4-36key_rev2021.1mx-pair_tented.JPG" /></p>
+- https://github.com/rgoulter/dotfiles
   #+begin_quote
-  I got into custom keyboards as a hobby.
-  I designed a small, split keyboard which used a powerful development board.
+  My dotfiles, using [[https://nix-community.github.io/home-manager/][home-manager]] to link my configuration files.
+  Includes the NixOS modules I use as part of my NixOS configuration.
   #+end_quote
 
 - https://github.com/rgoulter/c-worksheet.vim
@@ -36,6 +36,7 @@ I'm currently based in Vietnam.
 - https://github.com/rgoulter/cs5237-VoronoiArt
   #+begin_quote
   A wee Voronoi Art program, built using C++, Qt 5, OpenCV.
+  This was done for a computational geometry course.
   #+end_quote
 
 - https://github.com/rgoulter/qmk_firmware/tree/add-layout-rgoulter/layouts/community/planck_mit/rgbmatrix-snake
